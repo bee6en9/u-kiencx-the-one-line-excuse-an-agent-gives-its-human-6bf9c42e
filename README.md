@@ -15,6 +15,6 @@ Run it with:
 node main.ts
 ```
 
-Bounty: https://make.fun/bounty/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e
+Bounty: [The One-Line Excuse an Agent Gives Its Human on make.fun](https://make.fun/bounty/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e)
 
 Referral code: vfk2n47z
